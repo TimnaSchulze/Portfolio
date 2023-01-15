@@ -52,6 +52,36 @@ p {
 }
 
 .column {
-  width: 600px;
-  float:middle;
+  width: 900px;
+  float: left;
+  margin-right: 10px;
+  margin-left: 20px;
+  color: rgb(88, 88, 88);
+}
+
+.sidebar {
+  width: 35%;
+  float: left;
+  background-color:rgb(148, 196, 196)
+}
+
+.finale {
+  width: 100%;
+  float: left;
+}
+
+.picture {
+  width: 20%;
+  margin-left: 40%;
+}
+
+.namebox {
+  width: 40%;
+  padding: 10px;
+  border: rgb(46, 104, 104);
+  border-width: 10px;
+  background-color: rgb(178, 226, 235);
+  margin-top: 10px;
+  margin-left: 30%;
+  box-sizing: border-box;
 }
