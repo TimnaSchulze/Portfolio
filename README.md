@@ -4,6 +4,10 @@
 
 #### _{This is the first Independent Project and Code Review for Intro to Programming at Epicodus}_
 
+## Link to site on GitHub Pages
+
+_https://github.com/TimnaSchulze/Portfolio_
+
 ## Technologies Used
 
 * _HTML_
