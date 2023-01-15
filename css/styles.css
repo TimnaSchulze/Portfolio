@@ -11,6 +11,10 @@ h2 {
   text-align: center;
 }
 
+body {
+  background-color:aliceblue
+}
+
 p {
   font-family: Calibri;
 }
@@ -21,32 +25,32 @@ p {
   text-align: center;
 }
 
-.redtitle {
+.RedTitle {
   color:rgb(95, 9, 9);
   font-size:20px;
 }
 
-.orangetitle {
+.OrangeTitle {
   color:rgb(95, 51, 9);
   font-size:20px;
 }
 
-.yellowtitle {
+.YellowTitle {
   color:rgb(95, 94, 9);
   font-size:20px;
 }
 
-.greentitle {
+.GreenTitle {
   color:rgb(9, 95, 80);
   font-size:20px;
 }
 
-.bluetitle {
+.BlueTitle {
   color:rgb(9, 49, 95);
   font-size:20px;
 }
 
-.purpletitle {
+.PurpleTitle {
   color:rgb(42, 9, 95);
   font-size:20px;
 }
@@ -68,6 +72,7 @@ p {
 .finale {
   width: 100%;
   float: left;
+  margin-bottom: 50px;
 }
 
 .picture {
