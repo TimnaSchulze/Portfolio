@@ -1,6 +1,7 @@
 h1 {
   font-family: Calibri;
   color: rgb(9, 95, 66);
+  font-size: 40px;
   text-align: center;
 }
 
@@ -16,7 +17,7 @@ p {
 
 .intro {
   color:rgb(9, 95, 66);
-  font-size:26px;
+  font-size:20px;
   text-align: center;
 }
 
