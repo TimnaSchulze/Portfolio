@@ -1,8 +1,8 @@
-# _{Timna's Portfolio}_
+# _Timna's Portfolio_
 
-#### By _**{Timna Schulze}**_
+#### By _**Timna Schulze**_
 
-#### _{This is the first Independent Project and Code Review for Intro to Programming at Epicodus}_
+#### _This is the first Independent Project and Code Review for Intro to Programming at Epicodus_
 
 ## Link to site on GitHub Pages
 
@@ -15,7 +15,7 @@ _https://github.com/TimnaSchulze/Portfolio_
 
 ## Description
 
-_{This webpage details the projects completed during the first 2 weeks of class and brief infomation about me. Links to GitHub repositories are included.}_
+_This webpage details the projects completed during the first 2 weeks of class and brief infomation about me. Links to GitHub repositories are included._
 
 ## Setup/Installation Requirements
 
