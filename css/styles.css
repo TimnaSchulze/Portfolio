@@ -50,3 +50,8 @@ p {
   color:rgb(42, 9, 95);
   font-size:20px;
 }
+
+.column {
+  width: 600px;
+  float:middle;
+}
