@@ -1,15 +1,51 @@
 h1 {
   font-family: Calibri;
-  color: rgb(49, 126, 241);
+  color: rgb(9, 95, 66);
   text-align: center;
 }
 
 h2 {
+  color:rgb(9, 95, 66);
   font-family: Calibri;
-  text-align: left;
+  text-align: center;
 }
 
 p {
   font-family: Calibri;
 }
 
+.intro {
+  color:rgb(9, 95, 66);
+  font-size:26px;
+  text-align: center;
+}
+
+.redtitle {
+  color:rgb(95, 9, 9);
+  font-size:20px;
+}
+
+.orangetitle {
+  color:rgb(95, 51, 9);
+  font-size:20px;
+}
+
+.yellowtitle {
+  color:rgb(95, 94, 9);
+  font-size:20px;
+}
+
+.greentitle {
+  color:rgb(9, 95, 80);
+  font-size:20px;
+}
+
+.bluetitle {
+  color:rgb(9, 49, 95);
+  font-size:20px;
+}
+
+.purpletitle {
+  color:rgb(42, 9, 95);
+  font-size:20px;
+}
